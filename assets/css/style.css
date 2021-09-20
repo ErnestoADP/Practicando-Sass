@@ -1,0 +1,95 @@
+.boton-estilo {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.boton-estilo-dos {
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.btn {
+  border-color: #E6E7E7;
+}
+
+.btn-main {
+  border-radius: 25px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+footer {
+  background-color: black;
+}
+
+.imagen-footer {
+  display: block;
+  margin: auto;
+  width: 200px;
+  padding: 40px;
+}
+
+.font {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 70px;
+  color: white;
+}
+
+.font-dos {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 150px;
+}
+
+.imagen1 {
+  width: 100%;
+}
+
+.img-nav {
+  width: 100px;
+}
+
+.div-estilo {
+  background-color: #E6E7E7;
+  margin: 0;
+}
+
+.img-card {
+  width: 170px;
+  height: 170px;
+  border-radius: 85px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+h5 {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 40px;
+}
+
+.contenedor-texto {
+  margin-top: 40px;
+}
+
+.texto-card {
+  color: #ECBCBA;
+}
+
+.carta {
+  margin-top: 10px;
+}
+
+.texto-main {
+  line-height: 40px;
+  padding-top: 20px;
+}
+
+span {
+  color: #ECBCBA;
+}
+
+/*# sourceMappingURL=style.css.map */
